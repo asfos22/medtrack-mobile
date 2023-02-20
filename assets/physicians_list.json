@@ -1,0 +1,27 @@
+{
+  "physicians": [
+    {
+      "name": "Dr. Mary Heart",
+      "profilePic": "https://uifaces.co/our-content/donated/3799Ffxy.jpeg",
+      "facilityName": "Facility Name",
+      "primary": "Primary",
+      "revoke": "Revoke",
+      "isRevoke": false
+    },
+    {
+      "name": "Dr Elizabeth Jackson",
+      "profilePic": "https://randomuser.me/api/portraits/men/46.jpg",
+      "facilityName": "Facility Name",
+      "revoke": "Revoke",
+      "isRevoke": false
+    },
+    {
+      "name": "Dr Francis Addo",
+      "profilePic": "https://randomuser.me/api/portraits/men/86.jpg",
+      "facilityName": "Facility Name",
+      "revoke": "Revoked",
+      "primary": "Primary",
+      "isRevoke": true
+    }
+  ]
+}

@@ -1,0 +1,1376 @@
+{
+  "items": [
+    {
+      "title": "Prescriptions",
+      "description": "View all prescribed medication",
+      "code": "PRESCRIPTIONS",
+      "icon": "categoryPrescriptions",
+      "prescription": [
+        {
+          "title": "Prescribed during",
+          "description": "Encounter title",
+          "month": "Aug",
+          "day": "03",
+          "medications": [
+            {
+              "name": "Medications",
+              "dosage": "100 mg",
+              "description": "Prescription dosage and ingestion  frequency details goes here",
+              "category": "Pending",
+              "created_at": "3/08/2021"
+            },
+            {
+              "name": "Medications",
+              "dosage": "100 mg",
+              "description": "Prescription dosage and ingestion  frequency details goes here",
+              "category": "Dispensed",
+              "created_at": "3/08/2021"
+            }
+          ]
+        },
+        {
+          "title": "Prescribed during",
+          "description": "Encounter title",
+          "month": "Jul",
+          "day": "24",
+          "medications": [
+            {
+              "name": "Medications",
+              "dosage": "100 mg",
+              "description": "Prescription dosage and ingestion  frequency details goes here",
+              "category": "Pending",
+              "created_at": "24/07/2021"
+            },
+            {
+              "name": "Medications",
+              "dosage": "100 mg",
+              "description": "Prescription dosage and ingestion  frequency details goes here",
+              "category": "Dispensed",
+              "created_at": "24/07/2021"
+            }
+          ]
+        },
+        {
+          "title": "Prescribed during",
+          "description": "Encounter title",
+          "month": "July",
+          "day": "27",
+          "medications": [
+            {
+              "name": "Medications",
+              "dosage": "100 mg",
+              "description": "Prescription dosage and ingestion  frequency details goes here",
+              "category": "Pending",
+              "created_at": "27/06/2021"
+            },
+            {
+              "name": "Medications",
+              "dosage": "100 mg",
+              "description": "Prescription dosage and ingestion  frequency details goes here",
+              "category": "Dispensed",
+              "created_at": "27/06/2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Clinical Visits",
+      "description": "View encounter with doctors",
+      "code": "CLINICAL",
+      "icon": "categoryVisit",
+      "clinical_visits": [
+        {
+          "year": "2021",
+          "visits": [
+            {
+              "name": "Acute Migraine",
+              "date": "1st Jan 2021",
+              "diagnosis": [
+                {
+                  "name": "Notes",
+                  "title": "Physician's note during your encounter",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                  "date": "1st Jan 2021",
+                  "time": "10:32 am",
+                  "contact": {
+                    "name": "Dr. Ahmed Suley",
+                    "title": "Physician"
+                  },
+                  "investigations": {
+                    "name": "Investigations",
+                    "description": "List of diagnostic requested by your physician",
+                    "tags": [
+                      {
+                        "name": "Investigation"
+                      },
+                      {
+                        "name": "Investigation Type"
+                      },
+                      {
+                        "name": "Invest"
+                      },
+                      {
+                        "name": "Investigation"
+                      }
+                    ]
+                  },
+                  "attachment": [
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    }
+                  ],
+                  "comments": {
+                    "title": "Comments appended to your report by diagnostic center",
+                    "description": " Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur"
+                  },
+                  "prescriptions": [
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "Aug",
+                      "day": "03",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "3/08/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "3/08/2021"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "Jul",
+                      "day": "24",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "24/07/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "24/07/2021"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "July",
+                      "day": "27",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "27/06/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "27/06/2021"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "prescriptions": [
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "Aug",
+                  "day": "03",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "3/08/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "3/08/2021"
+                    }
+                  ]
+                },
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "Jul",
+                  "day": "24",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "24/07/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "24/07/2021"
+                    }
+                  ]
+                },
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "July",
+                  "day": "27",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "27/06/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "27/06/2021"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Acute Migraine",
+              "date": "1st Jan 2021",
+              "diagnosis": [
+                {
+                  "name": "Notes",
+                  "title": "Physician's note during your encounter",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                  "date": "1st Jan 2021",
+                  "time": "10:32 am",
+                  "contact": {
+                    "name": "Dr. Ahmed Suley",
+                    "title": "Physician"
+                  },
+                  "investigations": {
+                    "name": "Investigations",
+                    "description": "List of diagnostic requested by your physician",
+                    "tags": [
+                      {
+                        "name": "Investigation"
+                      },
+                      {
+                        "name": "Investigation Type"
+                      },
+                      {
+                        "name": "Invest"
+                      },
+                      {
+                        "name": "Investigation"
+                      }
+                    ]
+                  },
+                  "attachment": [
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    }
+                  ],
+                  "comments": {
+                    "title": "Comments appended to your report by diagnostic center",
+                    "description": " Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur"
+                  },
+                  "prescriptions": [
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "Aug",
+                      "day": "03",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "3/08/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "3/08/2021"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "Jul",
+                      "day": "24",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "24/07/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "24/07/2021"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "July",
+                      "day": "27",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "27/06/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "27/06/2021"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "prescriptions": [
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "Aug",
+                  "day": "03",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "3/08/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "3/08/2021"
+                    }
+                  ]
+                },
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "Jul",
+                  "day": "24",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "24/07/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "24/07/2021"
+                    }
+                  ]
+                },
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "July",
+                  "day": "27",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "27/06/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "27/06/2021"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Acute Migraine",
+              "date": "1st Jan 2021"
+            },
+            {
+              "name": "Acute Migraine",
+              "date": "1st Jan 2021"
+            }
+          ]
+        },
+        {
+          "year": "2020",
+          "visits": [
+            {
+              "name": "Acute Migraine",
+              "date": "1st Jan 2020",
+              "diagnosis": [
+                {
+                  "name": "Notes",
+                  "title": "Physician's note during your encounter",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                  "date": "1st Jan 2021",
+                  "time": "10:32 am",
+                  "contact": {
+                    "name": "Dr. Ahmed Suley",
+                    "title": "Physician"
+                  },
+                  "investigations": {
+                    "name": "Investigations",
+                    "description": "List of diagnostic requested by your physician",
+                    "tags": [
+                      {
+                        "name": "Investigation"
+                      },
+                      {
+                        "name": "Investigation Type"
+                      },
+                      {
+                        "name": "Invest"
+                      },
+                      {
+                        "name": "Investigation"
+                      }
+                    ]
+                  },
+                  "attachment": [
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    }
+                  ],
+                  "comments": {
+                    "title": "Comments appended to your report by diagnostic center",
+                    "description": " Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur"
+                  },
+                  "prescriptions": [
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "Aug",
+                      "day": "03",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "3/08/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "3/08/2021"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "Jul",
+                      "day": "24",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "24/07/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "24/07/2021"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "July",
+                      "day": "27",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "27/06/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "27/06/2021"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "prescriptions": [
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "Aug",
+                  "day": "03",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "3/08/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "3/08/2021"
+                    }
+                  ]
+                },
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "Jul",
+                  "day": "24",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "24/07/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "24/07/2021"
+                    }
+                  ]
+                },
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "July",
+                  "day": "27",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "27/06/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "27/06/2021"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Acute Migraine",
+              "date": "1st Jan 2020",
+              "diagnosis": [
+                {
+                  "name": "Notes",
+                  "title": "Physician's note during your encounter",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                  "date": "1st Jan 2021",
+                  "time": "10:32 am",
+                  "contact": {
+                    "name": "Dr. Ahmed Suley",
+                    "title": "Physician"
+                  },
+                  "investigations": {
+                    "name": "Investigations",
+                    "description": "List of diagnostic requested by your physician",
+                    "tags": [
+                      {
+                        "name": "Investigation"
+                      },
+                      {
+                        "name": "Investigation Type"
+                      },
+                      {
+                        "name": "Invest"
+                      },
+                      {
+                        "name": "Investigation"
+                      }
+                    ]
+                  },
+                  "attachment": [
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    }
+                  ],
+                  "comments": {
+                    "title": "Comments appended to your report by diagnostic center",
+                    "description": " Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur"
+                  },
+                  "prescriptions": [
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "Aug",
+                      "day": "03",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "3/08/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "3/08/2021"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "Jul",
+                      "day": "24",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "24/07/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "24/07/2021"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "July",
+                      "day": "27",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "27/06/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "27/06/2021"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "prescriptions": [
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "Aug",
+                  "day": "03",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "3/08/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "3/08/2021"
+                    }
+                  ]
+                },
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "Jul",
+                  "day": "24",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "24/07/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "24/07/2021"
+                    }
+                  ]
+                },
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "July",
+                  "day": "27",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "27/06/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "27/06/2021"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Acute Migraine",
+              "date": "1st Jan 2020",
+              "diagnosis": [
+                {
+                  "name": "Notes",
+                  "title": "Physician's note during your encounter",
+                  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+                  "date": "1st Jan 2021",
+                  "time": "10:32 am",
+                  "contact": {
+                    "name": "Dr. Ahmed Suley",
+                    "title": "Physician"
+                  },
+                  "investigations": {
+                    "name": "Investigations",
+                    "description": "List of diagnostic requested by your physician",
+                    "tags": [
+                      {
+                        "name": "Investigation"
+                      },
+                      {
+                        "name": "Investigation Type"
+                      },
+                      {
+                        "name": "Invest"
+                      },
+                      {
+                        "name": "Investigation"
+                      }
+                    ]
+                  },
+                  "attachment": [
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    },
+                    {
+                      "src": "https://via.placeholder.com/150x150.jpg"
+                    }
+                  ],
+                  "comments": {
+                    "title": "Comments appended to your report by diagnostic center",
+                    "description": " Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur"
+                  },
+                  "prescriptions": [
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "Aug",
+                      "day": "03",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "3/08/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "3/08/2021"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "Jul",
+                      "day": "24",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "24/07/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "24/07/2021"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Prescribed during",
+                      "description": "Encounter title",
+                      "month": "July",
+                      "day": "27",
+                      "medications": [
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Pending",
+                          "created_at": "27/06/2021"
+                        },
+                        {
+                          "name": "Medications",
+                          "dosage": "100 mg",
+                          "description": "Prescription dosage and ingestion  frequency details goes here",
+                          "category": "Dispensed",
+                          "created_at": "27/06/2021"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "prescriptions": [
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "Aug",
+                  "day": "03",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "3/08/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "3/08/2021"
+                    }
+                  ]
+                },
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "Jul",
+                  "day": "24",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "24/07/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "24/07/2021"
+                    }
+                  ]
+                },
+                {
+                  "title": "Prescribed during",
+                  "description": "Encounter title",
+                  "month": "July",
+                  "day": "27",
+                  "medications": [
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Pending",
+                      "created_at": "27/06/2021"
+                    },
+                    {
+                      "name": "Medications",
+                      "dosage": "100 mg",
+                      "description": "Prescription dosage and ingestion  frequency details goes here",
+                      "category": "Dispensed",
+                      "created_at": "27/06/2021"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Acute Migraine",
+              "date": "1st Jan 2020"
+            }
+          ]
+        }
+      ],
+      "visits_details": [
+        {
+          "name": "Notes",
+          "title": "Physician's note during your encounter",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "date": "1st Jan 2021",
+          "time": "10:32 am",
+          "contact": {
+            "name": "Dr. Ahmed Suley",
+            "title": "Physician",
+            "physician": {
+              "name": "Dr. Mary Heart",
+              "profilePic": "https://uifaces.co/our-content/donated/3799Ffxy.jpeg",
+              "facilityName": "Facility Name",
+              "primary": "Primary",
+              "revoke": "Revoke",
+              "isRevoke": false,
+              "contact": {
+                "name": "Facility",
+                "facility": "Weija Health Center",
+                "phone_number": "+233028263632",
+                "email": "facility@domain.com",
+                "location": "Weija, Accra, Ghana"
+              }
+            }
+          },
+          "reports": [
+            {
+              "name": "History & Examination Findings",
+              "code": "COMPLETED",
+              "report": [
+                {
+                  "name": "Completed",
+                  "created_at": "1st Jan 2021",
+                  "physician": {
+                    "name": "Dr. Mary Heart",
+                    "profilePic": "https://uifaces.co/our-content/donated/3799Ffxy.jpeg",
+                    "facilityName": "Facility Name",
+                    "primary": "Primary",
+                    "revoke": "Revoke",
+                    "isRevoke": false,
+                    "contact": {
+                      "name": "Facility",
+                      "facility": "Weija Health Center",
+                      "phone_number": "+233028263632",
+                      "email": "facility@domain.com",
+                      "location": "Weija, Accra, Ghana"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Diagnostic Reports",
+              "code": "DIAGNOSTIC",
+              "report": [
+                {
+                  "name": "Sent to Medlab",
+                  "created_at": "1st Jan 2021",
+                  "physician": {
+                    "name": "Dr. Mary Heart",
+                    "profilePic": "https://uifaces.co/our-content/donated/3799Ffxy.jpeg",
+                    "facilityName": "Facility Name",
+                    "primary": "Primary",
+                    "revoke": "Revoke",
+                    "isRevoke": false,
+                    "contact": {
+                      "name": "Facility",
+                      "facility": "Weija Health Center",
+                      "phone_number": "+233028263632",
+                      "email": "facility@domain.com",
+                      "location": "Weija, Accra, Ghana"
+                    }
+                  }
+                },
+                {
+                  "name": "Sent to Sunshine Health ",
+                  "created_at": "1st Jan 2021",
+                  "physician": {
+                    "name": "Dr. Mary Heart",
+                    "profilePic": "https://uifaces.co/our-content/donated/3799Ffxy.jpeg",
+                    "facilityName": "Facility Name",
+                    "primary": "Primary",
+                    "revoke": "Revoke",
+                    "isRevoke": false,
+                    "contact": {
+                      "name": "Facility",
+                      "facility": "Weija Health Center",
+                      "phone_number": "+233028263632",
+                      "email": "facility@domain.com",
+                      "location": "Weija, Accra, Ghana"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Prescriptions",
+              "code": "PRESCRIPTIONS",
+              "report": [
+                {
+                  "name": "Sent to Ernest Chemist",
+                  "created_at": "1st Jan 2021",
+                  "physician": {
+                    "name": "Dr. Mary Heart",
+                    "profilePic": "https://uifaces.co/our-content/donated/3799Ffxy.jpeg",
+                    "facilityName": "Facility Name",
+                    "primary": "Primary",
+                    "revoke": "Revoke",
+                    "isRevoke": false,
+                    "contact": {
+                      "name": "Facility",
+                      "facility": "Weija Health Center",
+                      "phone_number": "+233028263632",
+                      "email": "facility@domain.com",
+                      "location": "Weija, Accra, Ghana"
+                    }
+                  }
+                }
+              ]
+            }
+          ],
+          "access_control": [
+            {
+              "name": "Physician Access",
+              "description": "Revoke physician access to this session",
+              "physicians": [
+                {
+                  "name": "Dr. Mary Heart",
+                  "profilePic": "https://uifaces.co/our-content/donated/3799Ffxy.jpeg",
+                  "facilityName": "Facility Name",
+                  "primary": "Primary",
+                  "revoke": "Revoke",
+                  "isRevoke": false,
+                  "contact": {
+                    "name": "Facility",
+                    "facility": "Weija Health Center",
+                    "phone_number": "+233028263632",
+                    "email": "facility@domain.com",
+                    "location": "Weija, Accra, Ghana"
+                  }
+                },
+                {
+                  "name": "Dr Elizabeth Jackson",
+                  "profilePic": "https://randomuser.me/api/portraits/men/46.jpg",
+                  "facilityName": "Facility Name",
+                  "revoke": "Revoke",
+                  "isRevoke": false,
+                  "contact": {
+                    "name": "Facility",
+                    "facility": "Weija Health Center 2",
+                    "phone_number": "+233028263631",
+                    "email": "facility2@domain.com",
+                    "location": "Weija, Accra, Ghana"
+                  }
+                },
+                {
+                  "name": "Dr Francis Addo",
+                  "profilePic": "https://randomuser.me/api/portraits/men/86.jpg",
+                  "facilityName": "Facility Name",
+                  "revoke": "Revoked",
+                  "isRevoke": true,
+                  "contact": {
+                    "name": "Facility3",
+                    "facility": "Weija Health Center",
+                    "phone_number": "+233028263632",
+                    "email": "facility3@domain.com",
+                    "location": "Weija, Accra, Ghana"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "diagnosis": [
+        {
+          "name": "Notes",
+          "title": "Physician's note during your encounter",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "date": "1st Jan 2021",
+          "time": "10:32 am",
+          "contact": {
+            "name": "Dr. Ahmed Suley",
+            "title": "Physician"
+          },
+          "investigations": {
+            "name": "Investigations",
+            "description": "List of diagnostic requested by your physician",
+            "tags": [
+              {
+                "name": "Investigation"
+              },
+              {
+                "name": "Investigation Type"
+              },
+              {
+                "name": "Invest"
+              },
+              {
+                "name": "Investigation"
+              }
+            ]
+          },
+          "attachment": [
+            {
+              "src": "https://via.placeholder.com/150x150.jpg"
+            },
+            {
+              "src": "https://via.placeholder.com/150x150.jpg"
+            },
+            {
+              "src": "https://via.placeholder.com/150x150.jpg"
+            },
+            {
+              "src": "https://via.placeholder.com/150x150.jpg"
+            }
+          ],
+          "comments": {
+            "title": "Comments appended to your report by diagnostic center",
+            "description": " Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur"
+          },
+          "prescriptions": [
+            {
+              "title": "Prescribed during",
+              "description": "Encounter title",
+              "month": "Aug",
+              "day": "03",
+              "medications": [
+                {
+                  "name": "Medications",
+                  "dosage": "100 mg",
+                  "description": "Prescription dosage and ingestion  frequency details goes here",
+                  "category": "Pending",
+                  "created_at": "3/08/2021"
+                },
+                {
+                  "name": "Medications",
+                  "dosage": "100 mg",
+                  "description": "Prescription dosage and ingestion  frequency details goes here",
+                  "category": "Dispensed",
+                  "created_at": "3/08/2021"
+                }
+              ]
+            },
+            {
+              "title": "Prescribed during",
+              "description": "Encounter title",
+              "month": "Jul",
+              "day": "24",
+              "medications": [
+                {
+                  "name": "Medications",
+                  "dosage": "100 mg",
+                  "description": "Prescription dosage and ingestion  frequency details goes here",
+                  "category": "Pending",
+                  "created_at": "24/07/2021"
+                },
+                {
+                  "name": "Medications",
+                  "dosage": "100 mg",
+                  "description": "Prescription dosage and ingestion  frequency details goes here",
+                  "category": "Dispensed",
+                  "created_at": "24/07/2021"
+                }
+              ]
+            },
+            {
+              "title": "Prescribed during",
+              "description": "Encounter title",
+              "month": "July",
+              "day": "27",
+              "medications": [
+                {
+                  "name": "Medications",
+                  "dosage": "100 mg",
+                  "description": "Prescription dosage and ingestion  frequency details goes here",
+                  "category": "Pending",
+                  "created_at": "27/06/2021"
+                },
+                {
+                  "name": "Medications",
+                  "dosage": "100 mg",
+                  "description": "Prescription dosage and ingestion  frequency details goes here",
+                  "category": "Dispensed",
+                  "created_at": "27/06/2021"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Diagnosis",
+      "description": "View all diagnosis reports",
+      "code": "DIAGNOSIS",
+      "icon": "iconDarkDiagnostics",
+      "diagnosis_reports": [
+        {
+          "year": "2021",
+          "diagnostics": [
+            {
+              "name": "Diagnosis Title",
+              "date": "1st Jan 2021"
+            },
+            {
+              "name": "Diagnosis Title",
+              "date": "1st Jan 2021"
+            },
+            {
+              "name": "Diagnosis Title",
+              "date": "1st Jan 2021"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Health Data",
+      "description": "Allergies, blood group etc ..",
+      "code": "HEALTH_DATA",
+      "icon": "iconDarkHealthData"
+    }
+  ]
+}
